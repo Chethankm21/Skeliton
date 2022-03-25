@@ -1,0 +1,19 @@
+Maruti car brand name and price
+Maruti Suzuki Swift  price is:  ? 5.19 Lakh
+Maruti Suzuki Baleno  price is:  ? 5.7 Lakh
+Maruti Suzuki Dzire  price is:  ? 5.89 Lakh
+Maruti Suzuki Ertiga  price is:  ? 7.59 Lakh
+Maruti Suzuki Vitara Brezza  price is:  ? 7.34 Lakh
+Maruti Suzuki Wagon R  price is:  ? 4.51 Lakh
+Maruti Suzuki Alto  price is:  ? 3 Lakh
+Maruti Suzuki Celerio  price is:  ? 4.46 Lakh
+Maruti Suzuki S-Presso  price is:  ? 3.71 Lakh
+Maruti Suzuki Ignis  price is:  ? 4.89 Lakh
+Maruti Suzuki Ciaz  price is:  ? 8.32 Lakh
+Maruti Suzuki XL6  price is:  ? 9.85 Lakh
+Maruti Suzuki Eeco  price is:  ? 3.81 Lakh
+Maruti Suzuki Celerio X  price is:  ? 4.95 Lakh
+Maruti Suzuki S-Cross Petrol  price is:  ? 10 Lakh
+Maruti Suzuki Futuro-E  price is:  ? 9 Lakh
+Maruti Suzuki Wagon R EV  price is:  ? 9 Lakh
+Maruti Suzuki Jimny  price is:  ? 7 Lakh

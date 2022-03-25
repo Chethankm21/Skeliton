@@ -1,0 +1,5 @@
+INFO    2022-03-25 19:19:51,596 [main] base.BaseTest  - Config Properties loaded !!!
+INFO    2022-03-25 19:19:54,894 [main] base.BaseTest  - Chrome Browser Launched !!!
+INFO    2022-03-25 19:20:00,136 [main] base.BaseTest  - Navigating to the URL : https://paywheelcloud.paywheel.net/paywheelnewui/login/login-card
+INFO    2022-03-25 19:20:00,140 [main] base.BaseTest  - Database connection established
+INFO    2022-03-25 19:20:04,114 [main] base.BaseTest  - Test Execution completed !!!
